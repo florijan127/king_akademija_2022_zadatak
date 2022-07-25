@@ -1,0 +1,4 @@
+konzistentna imena kljuceva (id_pro umjesto id)
+provjeri jel ti treba OrderCustomRepo
+ikone na 3:23:46
+ne moze slati null kao filter nego ce bit prazni stringovi i priceMax 0, rijesi to
